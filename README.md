@@ -1,6 +1,6 @@
 # Coin Flip Game
 
-This is a simple coin flip game with character selection, score tracking, and win phrases.
+Simple Coin Flip Simulation Game I made to refine my skills.
 
 ## Development Notes
 
