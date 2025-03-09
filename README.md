@@ -1,6 +1,6 @@
 # Coin Flip Game
 
-Simple Coin Flip Simulation Game I made to refine my skills.
+Simple Coin Flip Simulation Game I made to refine my python skills.
 
 ## Development Notes
 
